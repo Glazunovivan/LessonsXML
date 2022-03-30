@@ -1,21 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <HomeWorks>
 	<Lesson name ="Статистика.">
-		<Task>
-			Рабочая тетрадь
-		</Task>
+		<Task>Рабочая тетрадь</Task>
 	</Lesson>
 	<Lesson name ="Дискретная математика.">
-		<Task>
-			Конспекты лекций
-		</Task>
+		<Task>Конспекты лекций</Task>
 	</Lesson>
 	<Lesson name ="Проектирование информационных систем.">
-		<Task>
-			IDEF0
-		</Task>
-		<Task>
-			ER-система
-		</Task>
+		<Task>IDEF0</Task>
+		<Task>ER-система</Task>
 	</Lesson>
 </HomeWorks>
