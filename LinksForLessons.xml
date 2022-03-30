@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Links>
+	<Lesson name ="(II)Проектирование информационных систем.">
+		<Link>https://meet.google.com/mrq-mrrc-mpb</Link>
+	</Lesson>
+	<Lesson name ="(II)Информационные системы в производственном менеджменте.">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="Статистика">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="Информационные системы и технологогии">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="(I)Дискретная математика.">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="(I)Основы психологии.">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="(I)Информационные системы и технологии.">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="(II)Информационные системы и технологии.">
+		<Link></Link>
+	</Lesson>
+	<Lesson name ="Информационная безопасность.">
+		<Link></Link>
+	</Lesson>
+</Links>
