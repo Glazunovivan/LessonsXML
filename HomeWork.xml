@@ -8,6 +8,7 @@
 	</Lesson>
 	<Lesson name ="Проектирование информационных систем.">
 		<Task>IDEF0</Task>
+		<Task>EPC диаграмма</Task>
 		<Task>ER-система</Task>
 	</Lesson>
 </HomeWorks>
